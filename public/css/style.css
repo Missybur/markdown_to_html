@@ -1,5 +1,5 @@
 #md {
-  display: block;
+  display: inline-block;
   width: 400px;
   height: 300px;
   border: 2px solid black;
@@ -8,7 +8,7 @@
 }
 
 #html {
-  display: block;
+  display: inline-block;
   width: 400px;
   height: 300px;
   border: 2px solid black;
@@ -18,5 +18,5 @@
 
 h1 {
   text-align: center;
-  margin: 10px;
 }
+
