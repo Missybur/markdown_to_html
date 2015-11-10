@@ -1,0 +1,22 @@
+#md {
+  display: block;
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+  float: left;
+  margin: 10px;
+}
+
+#html {
+  display: block;
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+  float: left;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+}
